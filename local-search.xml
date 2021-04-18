@@ -4,9 +4,22 @@
   
   
   <entry>
+    <title>A Guide to Building Your Own Hexo Blog (To Be Continued...)</title>
+    <link href="/post/6a2c/"/>
+    <url>/post/6a2c/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hello, world</title>
-    <link href="/post/hello-world/"/>
-    <url>/post/hello-world/</url>
+    <link href="/post/3479/"/>
+    <url>/post/3479/</url>
     
     <content type="html"><![CDATA[<h3 id="Hello-welcome-to-my-blog"><a href="#Hello-welcome-to-my-blog" class="headerlink" title="Hello, welcome to my blog!"></a>Hello, welcome to my blog!</h3>]]></content>
     
