@@ -4,7 +4,20 @@
   
     
     <entry>
-      <title>Hello World</title>
+      <title>hello, world</title>
+      <link href="post/hello-world-1/"/>
+      <url>post/hello-world-1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello, world</title>
       <link href="post/hello-world/"/>
       <url>post/hello-world/</url>
       
