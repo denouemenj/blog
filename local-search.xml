@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>page</title>
+    <link href="/post/page/"/>
+    <url>/post/page/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hello, world</title>
     <link href="/post/hello-world/"/>
     <url>/post/hello-world/</url>
