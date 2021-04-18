@@ -362,8 +362,8 @@ img[lazyload] {
     --color-mode: 'dark';
   }
   :root:not([data-user-color-scheme]) {
-    --body-bg-color: #181c27;
-    --board-bg-color: #252d38;
+    --body-bg-color: #061e23;
+    --board-bg-color: #082d32;
     --text-color: #c4c6c9;
     --sec-text-color: #a7a9ad;
     --post-text-color: #c4c6c9;
@@ -371,8 +371,8 @@ img[lazyload] {
     --post-link-color: #1589e9;
     --link-hover-color: #30a9de;
     --link-hover-bg-color: #364151;
-    --navbar-bg-color: #1f3144;
-    --navbar-text-color: #d0d0d0;
+    --navbar-bg-color: #061e23;
+    --navbar-text-color: #fff;
   }
   :root:not([data-user-color-scheme]) img,
   :root:not([data-user-color-scheme]) .note,
@@ -444,8 +444,8 @@ img[lazyload] {
   }
 }
 [data-user-color-scheme='dark'] {
-  --body-bg-color: #181c27;
-  --board-bg-color: #252d38;
+  --body-bg-color: #061e23;
+  --board-bg-color: #082d32;
   --text-color: #c4c6c9;
   --sec-text-color: #a7a9ad;
   --post-text-color: #c4c6c9;
@@ -453,8 +453,8 @@ img[lazyload] {
   --post-link-color: #1589e9;
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #364151;
-  --navbar-bg-color: #1f3144;
-  --navbar-text-color: #d0d0d0;
+  --navbar-bg-color: #061e23;
+  --navbar-text-color: #fff;
 }
 [data-user-color-scheme='dark'] img,
 [data-user-color-scheme='dark'] .note,
