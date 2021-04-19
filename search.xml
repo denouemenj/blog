@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> Humanities </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+        </tags>
       
     </entry>
     
@@ -33,13 +45,13 @@
       
         <tags>
             
+            <tag> English </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Git </tag>
             
             <tag> Node.js </tag>
-            
-            <tag> English </tag>
             
         </tags>
       
