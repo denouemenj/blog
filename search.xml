@@ -17,35 +17,6 @@
     
     
     <entry>
-      <title>A Guide to Building Your Own Hexo Blog</title>
-      <link href="post/6a2c/"/>
-      <url>post/6a2c/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Preface"><a href="#Preface" class="headerlink" title="Preface"></a>Preface</h2><h3 id="What-is-Hexo"><a href="#What-is-Hexo" class="headerlink" title="What is Hexo?"></a>What is Hexo?</h3><h2 id="Steps"><a href="#Steps" class="headerlink" title="Steps"></a>Steps</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> Technology </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> Git </tag>
-            
-            <tag> Node.js </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello, World!</title>
       <link href="post/3479/"/>
       <url>post/3479/</url>
